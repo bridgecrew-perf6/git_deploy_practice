@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/git_deploy_practice/static/js/main.1d82585c.js",
+    "main.js": "/git_deploy_practice/static/js/main.ae0f4680.js",
     "static/js/787.a8522036.chunk.js": "/git_deploy_practice/static/js/787.a8522036.chunk.js",
     "index.html": "/git_deploy_practice/index.html",
-    "main.1d82585c.js.map": "/git_deploy_practice/static/js/main.1d82585c.js.map",
+    "main.ae0f4680.js.map": "/git_deploy_practice/static/js/main.ae0f4680.js.map",
     "787.a8522036.chunk.js.map": "/git_deploy_practice/static/js/787.a8522036.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.1d82585c.js"
+    "static/js/main.ae0f4680.js"
   ]
 }
